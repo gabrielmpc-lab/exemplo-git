@@ -8,11 +8,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(86, 1, 166);
+    background-color: rgb(150, 105, 192);
     height: 100vh;
-}
-
-a{
-    text-decoration: none;
-    color: inherit;
 }
