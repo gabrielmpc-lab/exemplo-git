@@ -8,8 +8,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(150, 105, 192);
-    color: aliceblue;
-    font-size: 32px;
+    background-color: rgb(207, 173, 239);
     height: 100vh;
+    color: rgb(180, 80, 180);
+    font-size: 48px;
 }
